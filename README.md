@@ -5,5 +5,6 @@ This repository contains source for the example Hello World progam. You do not n
 
 For instructions on how to create your feed, please see:
 
-https://github.com/ethanmorris/ExampleRepo/README.md
+https://github.com/ethanmorris/SampleRepo/README.md
+
 
