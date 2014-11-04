@@ -1,2 +1,2 @@
 default: hworld.c
-	gcc hworld.c -o hworld
+	$(CC) hworld.c -o hworld
